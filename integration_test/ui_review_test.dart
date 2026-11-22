@@ -75,6 +75,11 @@ void main() {
     Future<void> scrollTap(String text) async {
       final f = find.text(text);
       if (f.evaluate().isEmpty) {
+        // Listenin başına dön, sonra aşağı doğru ara.
+        for (var i = 0; i < 6; i++) {
+          await tester.drag(find.byType(Scrollable).first, const Offset(0, 3000));
+          await tester.pump(const Duration(milliseconds: 200));
+        }
         await tester.scrollUntilVisible(f, 300, scrollable: find.byType(Scrollable).first, maxScrolls: 80);
       }
       await tapText(text);
