@@ -1,0 +1,18 @@
+Yhdistä & Lajittele kokoaa 24 peliä ja 15 muunnelmaa yhteen sovellukseen omalla tyylillämme. Yhdistä ja poksauta, laatat ja mahjong, lajittelu, tarkkaavaisuus- ja muistipelit sekä arcade-yhdistely; jokaisella pelillä on oma edistyminen, tehtävät ja saavutukset.
+
+• Yhdistä ja poksauta: Kolme Rivissä, Jalokivikiri, Palikkapaukku, Ryhmäräjäytys, Kuusikulmiot, Väritulva, Kolmoisyhdistäminen
+• Laatat ja mahjong: Mahjong-pasianssi, Laattatrio, Kasapari, Yhdistä Parit, Domino Kaksitoista, Isot Laattaparit
+• Lajittelupelit: Korttilajittelu, Hyllylajittelu, Lankalajittelu, Pullolaatikot
+• Tarkkaavaisuus ja muisti: Etsi Parit, Etsi Erot, Piilotetut Esineet, Yhteinen Merkki
+• Arcade-yhdistely: Kuplapaukku, Kuulaketju, Hedelmäfuusio
+• Muunnelmapaketit: Mahjong-muodot (10), Kuplamuunnelmat (5)
+
+Kohokohdat
+• 100 000 tasoa per peli; laudan koko ja vaikeus kasvavat askel askeleelta, ja jokaisen tason ratkeavuus tarkistetaan.
+• Kymmenen vaikeusporrasta: rento alku, myöhemmin haasteita asiantuntijoille.
+• Vihjeet ja kumoaminen aina tarvittaessa.
+• Päivä- ja viikkotasot, tehtävät, saavutukset ja 33 kieltä.
+• Pelattavissa ilman verkkoa puhelimella, tabletilla ja verkossa.
+• Ei rahapelejä, vedonlyöntiä tai K18-sisältöä; sopii kaikenikäisille.
+
+Ostokset (esim. mainoksettomuus) koskevat kaikkia sovelluksen pelejä.

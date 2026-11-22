@@ -1,0 +1,18 @@
+Pinagsasama ng Pagtugmain at Ayusin ang 24 laro at 15 variant sa iisang app, gamit ang sarili naming disenyo. Pagtugmain at paputukin, tiles at mahjong, pag-aayos, mga larong pansin at memorya, at arcade na pagtutugma; may sariling progreso, misyon at tagumpay ang bawat laro.
+
+• Pagtugmain at paputukin: Tatlong Magkapareho, Karera ng Hiyas, Pasabugin ang Bloke, Pasabog ng Grupo, Tugmang Heksagon, Baha ng Kulay, Tatlong Pagsasanib
+• Tiles at mahjong: Mahjong Solitaire, Tatluhang Tile, Tumpok na Tugma, Pagdugtungin ang Pares, Domino Labindalawa, Pares ng Malalaking Tile
+• Mga larong pag-aayos: Ayusin ang Card, Ayusin ang Istante, Ayusin ang Sinulid, Kahon ng Bote
+• Pansin at memorya: Hanapin ang Pares, Hanapin ang Pagkakaiba, Mga Nakatagong Bagay, Karaniwang Simbolo
+• Arcade na pagtutugma: Pasabog Bula, Kadena ng Bola, Pagsamahin ang Prutas
+• Mga pack ng variant: Mga Ayos ng Mahjong (10), Mga Bersyon ng Bula (5)
+
+Mga tampok
+• 100,000 level bawat laro; lumalaki nang paunti-unti ang board at hirap, at sinusuri ang bawat level kung malulutas.
+• Sampung baitang ng hirap: magaan sa umpisa, hamon para sa eksperto sa huli.
+• May hint at undo tuwing kailangan.
+• Araw-araw at lingguhang level, misyon, tagumpay at 33 wika.
+• Puwedeng laruin offline sa phone, tablet at web.
+• Walang sugal, pustahan o 18+ na nilalaman; angkop sa lahat ng edad.
+
+Ang mga binili (gaya ng walang ads) ay para sa lahat ng laro sa app.

@@ -1,0 +1,18 @@
+Potrivește și Sortează reunește 24 jocuri și 15 variante într-o aplicație, cu designul nostru propriu. Potrivește și sparge, piese și mahjong, sortare, jocuri de atenție și memorie și potriviri arcade; fiecare joc are propriul progres, misiuni și realizări.
+
+• Potrivește și sparge: Trei în Linie, Sprintul Pietrelor, Spargerea Blocurilor, Explozie de Grupuri, Hexagoane Potrivite, Potop de Culori, Fuziune Triplă
+• Piese și mahjong: Mahjong Solitaire, Trio de Piese, Grămada Potrivită, Leagă Perechile, Domino Doisprezece, Perechi de Piese Mari
+• Jocuri de sortare: Sortarea Cărților, Sortarea Rafturilor, Sortarea Lânii, Lăzi cu Sticle
+• Atenție și memorie: Găsește Perechile, Găsește Diferențele, Obiecte Ascunse, Simbolul Comun
+• Potriviri arcade: Spargătorul de Bule, Lanțul de Bile, Fuziunea Fructelor
+• Pachete de variante: Aranjamente Mahjong (10), Variante de Bule (5)
+
+Puncte forte
+• 100.000 de niveluri pe joc; mărimea tablei și dificultatea cresc treptat, iar fiecare nivel este verificat că are soluție.
+• Zece trepte de dificultate: niveluri relaxante la început, provocări de expert mai târziu.
+• Indicii și anulare oricând ai nevoie.
+• Niveluri zilnice și săptămânale, misiuni, realizări și 33 de limbi.
+• Se joacă offline pe telefon, tabletă și web.
+• Fără jocuri de noroc, pariuri sau conținut 18+; potrivit pentru toate vârstele.
+
+Achizițiile (de ex. fără reclame) se aplică tuturor jocurilor din aplicație.
