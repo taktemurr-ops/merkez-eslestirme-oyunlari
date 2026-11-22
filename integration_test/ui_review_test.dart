@@ -72,6 +72,15 @@ void main() {
       await wait();
     }
 
+    Future<void> scrollTap(String text) async {
+      final f = find.text(text);
+      if (f.evaluate().isEmpty) {
+        await tester.scrollUntilVisible(f, 300, scrollable: find.byType(Scrollable).first, maxScrolls: 80);
+      }
+      await tapText(text);
+    }
+
+
     Future<void> home() async {
       tester.state<NavigatorState>(find.byType(Navigator).first).popUntil((r) => r.isFirst);
       await wait();
@@ -87,7 +96,7 @@ void main() {
     await shot('ana_liste');
     for (final g in hub.hubConfig.groups) {
       await step('grup ${g.id}', () async {
-        await tapText(hub.hubConfig.localized(g.title, lang));
+        await scrollTap(hub.hubConfig.localized(g.title, lang));
         await shot('grup_${g.id}');
         await home();
       });
@@ -95,7 +104,7 @@ void main() {
 
     for (final g in hub.hubConfig.games) {
       final id = g.gameId.replaceFirst('oyun-', '');
-      await step('$id ac', () => tapText(hub.hubConfig.localized(g.title, lang)));
+      await step('$id ac', () => scrollTap(hub.hubConfig.localized(g.title, lang)));
       await wait(2500);
       await step('$id ana sekme', () async {
         await tester.tap(find.byIcon(Icons.home).last);
