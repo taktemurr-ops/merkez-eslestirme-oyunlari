@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: f18917c88989ecb298d02dcefc210504cb292afd
+      ref: 2d2c378fe4cf21ee7d7410a57db7cbc29bf328e1
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_uclu_eslestirme:
     git:
@@ -132,7 +132,7 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: f18917c88989ecb298d02dcefc210504cb292afd
+      ref: 2d2c378fe4cf21ee7d7410a57db7cbc29bf328e1
   eslestirme_motoru:
     git:
       url: https://github.com/taktemurr-ops/eslestirme-motoru
