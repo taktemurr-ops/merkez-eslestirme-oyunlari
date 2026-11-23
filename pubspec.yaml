@@ -136,7 +136,7 @@ dependency_overrides:
   eslestirme_motoru:
     git:
       url: https://github.com/taktemurr-ops/eslestirme-motoru
-      ref: b49e6c1720099bff19ac64b7155dab656eb42298
+      ref: b227a67d3899a8cb324859344bbcb00b9a198666
 
 dev_dependencies:
   flutter_test:
