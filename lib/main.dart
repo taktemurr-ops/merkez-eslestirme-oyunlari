@@ -101,7 +101,7 @@ final hubConfig = HubConfig(
       'Ghép ba, mạt chược, sắp xếp và nhiều hơn trong một ứng dụng',
       'Tugmang tatlo, mahjong, pag-aayos at marami pa sa iisang app',
     ],
-  seedColor: const Color(0xFF7A5C99),
+  seedColor: const Color(0xFF9B37D7),
   icon: Icons.auto_awesome_mosaic_rounded,
   games: [
     ucluConfig,
