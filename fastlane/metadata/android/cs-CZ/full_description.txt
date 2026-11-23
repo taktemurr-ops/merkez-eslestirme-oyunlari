@@ -3,8 +3,8 @@ Spojuj a třiď spojuje 24 her a 15 variant v jedné aplikaci s naším vlastní
 • Spojuj a praskej: Tři v řadě, Drahokamový sprint, Prasknutí kostek, Skupinový výbuch, Šestiúhelníky, Barevná záplava, Trojité spojování
 • Kameny a mahjong: Mahjong Solitaire, Trio kostek, Hromada párů, Spoj páry, Domino dvanáct, Velké páry kostek
 • Třídicí hry: Třídění karet, Třídění polic, Třídění příze, Bedny lahví
-• Pozornost a paměť: Najdi páry, Najdi rozdíly, Skryté předměty, Společný symbol
-• Arkádové spojování: Bublinová střelnice, Řetěz kuliček, Spojování ovoce
+• Pozornost a paměť: Obrázkové páry, Najdi rozdíly, Skryté předměty, Společný symbol
+• Rychlé párování: Bublinová střelnice, Řetěz kuliček, Spojování ovoce
 • Balíčky variant: Rozložení mahjongu (10), Varianty bublin (5)
 
 Hlavní přednosti

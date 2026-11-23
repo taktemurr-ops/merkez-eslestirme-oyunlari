@@ -3,8 +3,8 @@ Yhdistä & Lajittele kokoaa 24 peliä ja 15 muunnelmaa yhteen sovellukseen omall
 • Yhdistä ja poksauta: Kolme Rivissä, Jalokivikiri, Palikkapaukku, Ryhmäräjäytys, Kuusikulmiot, Väritulva, Kolmoisyhdistäminen
 • Laatat ja mahjong: Mahjong-pasianssi, Laattatrio, Kasapari, Yhdistä Parit, Domino Kaksitoista, Isot Laattaparit
 • Lajittelupelit: Korttilajittelu, Hyllylajittelu, Lankalajittelu, Pullolaatikot
-• Tarkkaavaisuus ja muisti: Etsi Parit, Etsi Erot, Piilotetut Esineet, Yhteinen Merkki
-• Arcade-yhdistely: Kuplapaukku, Kuulaketju, Hedelmäfuusio
+• Tarkkaavaisuus ja muisti: Kuvaparit, Etsi Erot, Piilotetut Esineet, Yhteinen Merkki
+• Nopea yhdistely: Kuplapaukku, Kuulaketju, Hedelmäfuusio
 • Muunnelmapaketit: Mahjong-muodot (10), Kuplamuunnelmat (5)
 
 Kohokohdat

@@ -3,8 +3,8 @@ Padan & Susun menghimpunkan 24 permainan dan 15 varian dalam satu aplikasi denga
 • Padan dan pecahkan: Padan Tiga, Lumba Permata, Letup Blok, Letupan Kumpulan, Padan Heksagon, Banjir Warna, Cantum Tiga
 • Jubin dan mahjong: Mahjong Solitaire, Trio Jubin, Longgokan Padan, Sambung Pasangan, Domino Dua Belas, Pasangan Jubin Besar
 • Permainan menyusun: Susun Kad, Susun Rak, Susun Benang, Peti Botol
-• Tumpuan dan ingatan: Cari Pasangan, Cari Perbezaan, Objek Tersembunyi, Simbol Sepunya
-• Padanan arked: Penembak Gelembung, Rantai Bola, Cantum Buah
+• Tumpuan dan ingatan: Pasangan Gambar, Cari Perbezaan, Objek Tersembunyi, Simbol Sepunya
+• Padanan pantas: Penembak Gelembung, Rantai Bola, Cantum Buah
 • Pek varian: Susunan Mahjong (10), Varian Gelembung (5)
 
 Sorotan

@@ -46,7 +46,7 @@ dependencies:
   oyun_cift_bul:
     git:
       url: https://github.com/taktemurr-ops/oyun-cift-bul
-      ref: cf08d39c10d6be673ad479fe79cb3074a8619fd9
+      ref: bfe7bb6b62b27fe9240345f11cdb4834115df4f5
   oyun_domino_eslestirme:
     git:
       url: https://github.com/taktemurr-ops/oyun-domino-eslestirme

@@ -3,8 +3,8 @@ Eşleştir ve Sırala, 24 oyunu ve 15 çeşidi stüdyonun kendine özgü tasarı
 • Eşleştir ve patlat: Üçlü Eşleştirme, Mücevher Değiştir, Blok Patlatma, Grup Patlatma, Altıgen Eşleştirme, Renk Doldurma, Üçlü Birleştirme
 • Taşlar ve mahjong: Mahjong Solitaire, Taş Eşleştirme, Yığın Eşleştirme, Bağlantılı Eşleştirme, Domino Eşleştirme, Büyük Taş Çıkarma
 • Sıralama oyunları: Kart Sıralama, Raf Düzenleme, Yün Sıralama, İçecek Kasaları
-• Dikkat ve hafıza: Çift Bul, Farkı Bul, Gizli Nesne, Ortak Sembol
-• Arcade eşleştirme: Balon Patlatıcı, Top Zinciri, Meyve Birleştirme
+• Dikkat ve hafıza: Resim Çiftleri, Farkı Bul, Gizli Nesne, Ortak Sembol
+• Hızlı eşleştirme: Balon Patlatıcı, Top Zinciri, Meyve Birleştirme
 • Çeşit paketleri: Mahjong Dizilimleri (10), Balon Çeşitleri (5)
 
 Öne çıkanlar

@@ -3,8 +3,8 @@ Potrivește și Sortează reunește 24 jocuri și 15 variante într-o aplicație
 • Potrivește și sparge: Trei în Linie, Sprintul Pietrelor, Spargerea Blocurilor, Explozie de Grupuri, Hexagoane Potrivite, Potop de Culori, Fuziune Triplă
 • Piese și mahjong: Mahjong Solitaire, Trio de Piese, Grămada Potrivită, Leagă Perechile, Domino Doisprezece, Perechi de Piese Mari
 • Jocuri de sortare: Sortarea Cărților, Sortarea Rafturilor, Sortarea Lânii, Lăzi cu Sticle
-• Atenție și memorie: Găsește Perechile, Găsește Diferențele, Obiecte Ascunse, Simbolul Comun
-• Potriviri arcade: Spargătorul de Bule, Lanțul de Bile, Fuziunea Fructelor
+• Atenție și memorie: Perechi de Imagini, Găsește Diferențele, Obiecte Ascunse, Simbolul Comun
+• Potriviri rapide: Spargătorul de Bule, Lanțul de Bile, Fuziunea Fructelor
 • Pachete de variante: Aranjamente Mahjong (10), Variante de Bule (5)
 
 Puncte forte

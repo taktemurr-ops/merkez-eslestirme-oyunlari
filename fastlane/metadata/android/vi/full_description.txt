@@ -3,8 +3,8 @@ Ghép & Sắp xếp tập hợp 24 trò chơi và 15 biến thể trong một �
 • Ghép và nổ: Ghép Ba, Đua Ngọc, Nổ khối, Nổ nhóm, Ghép lục giác, Tràn màu, Hợp nhất ba
 • Ô gạch và mạt chược: Mạt chược xếp cặp, Bộ ba ô, Ghép đống đồ, Nối cặp, Domino Mười hai, Cặp ô lớn
 • Trò chơi sắp xếp: Xếp bài, Xếp kệ hàng, Xếp len, Thùng chai
-• Tập trung và trí nhớ: Tìm cặp, Tìm điểm khác, Đồ vật ẩn, Ký hiệu chung
-• Ghép arcade: Bắn bong bóng, Chuỗi bi, Hợp nhất trái cây
+• Tập trung và trí nhớ: Cặp hình, Tìm điểm khác, Đồ vật ẩn, Ký hiệu chung
+• Ghép nhanh: Bắn bong bóng, Chuỗi bi, Hợp nhất trái cây
 • Gói biến thể: Kiểu xếp mạt chược (10), Biến thể bong bóng (5)
 
 Điểm nổi bật

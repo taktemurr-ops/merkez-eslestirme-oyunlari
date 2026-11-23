@@ -3,8 +3,8 @@ Abbina e Ordina riunisce 24 giochi e 15 varianti in un’unica app, con il nostr
 • Abbina e scoppia: Tris di Gemme, Corsa di Gemme, Scoppia Blocchi, Esplosione di Gruppi, Esagoni Abbinati, Marea di Colori, Fusione Tripla
 • Tessere e mahjong: Mahjong Solitario, Trio di Tessere, Mucchio Abbinato, Collega le Coppie, Domino Dodici, Coppie di Tessere Grandi
 • Giochi di ordinamento: Ordina le Carte, Ordina gli Scaffali, Ordina la Lana, Casse di Bottiglie
-• Attenzione e memoria: Trova le Coppie, Trova le Differenze, Oggetti Nascosti, Simbolo Comune
-• Abbinamenti arcade: Spara Bolle, Catena di Biglie, Fondi la Frutta
+• Attenzione e memoria: Coppie di Immagini, Trova le Differenze, Oggetti Nascosti, Simbolo Comune
+• Abbinamenti rapidi: Spara Bolle, Catena di Biglie, Fondi la Frutta
 • Pacchetti di varianti: Schemi Mahjong (10), Varianti di Bolle (5)
 
 In evidenza
