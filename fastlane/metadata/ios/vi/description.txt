@@ -1,0 +1,18 @@
+Ghép & Sắp xếp tập hợp 24 trò chơi và 15 biến thể trong một ứng dụng với thiết kế riêng của chúng tôi. Ghép và nổ, ô gạch và mạt chược, sắp xếp, trò chơi tập trung và trí nhớ cùng ghép arcade; mỗi trò có tiến độ, nhiệm vụ và thành tích riêng.
+
+• Ghép và nổ: Ghép Ba, Đua Ngọc, Nổ khối, Nổ nhóm, Ghép lục giác, Tràn màu, Hợp nhất ba
+• Ô gạch và mạt chược: Mạt chược xếp cặp, Bộ ba ô, Ghép đống đồ, Nối cặp, Domino Mười hai, Cặp ô lớn
+• Trò chơi sắp xếp: Xếp bài, Xếp kệ hàng, Xếp len, Thùng chai
+• Tập trung và trí nhớ: Cặp hình, Tìm điểm khác, Đồ vật ẩn, Ký hiệu chung
+• Ghép nhanh: Bắn bong bóng, Chuỗi bi, Hợp nhất trái cây
+• Gói biến thể: Kiểu xếp mạt chược (10), Biến thể bong bóng (5)
+
+Điểm nổi bật
+• 100.000 màn mỗi trò; kích thước bàn và độ khó tăng dần, và mọi màn đều được kiểm tra là giải được.
+• Mười bậc độ khó: nhẹ nhàng lúc đầu, thử thách chuyên gia về sau.
+• Gợi ý và hoàn tác bất cứ khi nào cần.
+• Màn hằng ngày và hằng tuần, nhiệm vụ, thành tích và 33 ngôn ngữ.
+• Chơi ngoại tuyến trên điện thoại, máy tính bảng và web.
+• Không cờ bạc, cá cược hay nội dung 18+; phù hợp mọi lứa tuổi.
+
+Mua hàng (như bỏ quảng cáo) áp dụng cho mọi trò trong ứng dụng.

@@ -1,0 +1,1 @@
+three,gem,swap,rush,block,pop,group,blast,hex,color,flood,triple,merge,solitaire,tile,trio,pile,link
