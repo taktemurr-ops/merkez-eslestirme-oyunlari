@@ -25,7 +25,10 @@ import 'package:oyun_top_zinciri/oyun_top_zinciri.dart';
 import 'package:oyun_uclu_birlestirme/oyun_uclu_birlestirme.dart';
 import 'package:oyun_uclu_eslestirme/oyun_uclu_eslestirme.dart';
 import 'package:oyun_urun_siralama/oyun_urun_siralama.dart';
+import 'package:studio_core/app/approved_hub.dart';
 import 'package:studio_core/app/hub.dart';
+
+import 'approved_style.dart';
 
 /// Eşleştir ve Sırala: eşleştirme, taş/mahjong, sıralama, dikkat-hafıza ve
 /// arcade eşleştirme oyunlarını tek uygulamada toplar. Her oyunun kaydı ayrıdır.
@@ -352,4 +355,4 @@ final hubConfig = HubConfig(
   ],
 );
 
-void main() => bootstrapHub(hubConfig);
+void main() => bootstrapApprovedHub(hubConfig, approvedStyle);
