@@ -1,1 +1,1 @@
-24 eşleştirme oyunu tek uygulamada: üçlü, mahjong, sıralama ve fazlası!
+27 eşleştirme oyunu tek uygulamada: üçlü, mahjong, sıralama ve fazlası!

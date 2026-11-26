@@ -30,6 +30,9 @@ void main() {
       'oyun-balon-patlatici',
       'oyun-top-zinciri',
       'oyun-meyve-birlestirme',
+      'oyun-piksel-akisi',
+      'oyun-tatli-tepsisi',
+      'oyun-renk-dongusu',
     ]);
     expect(all.length, ids.length + 15);
     expect(all.toSet().length, all.length);

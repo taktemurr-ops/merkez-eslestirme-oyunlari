@@ -1,8 +1,8 @@
-Dopasuj i sortuj łączy 24 gier i 15 odmian w jednej aplikacji, z naszym własnym designem. Dopasuj i pękaj, płytki i mahjong, sortowanie, gry na uwagę i pamięć oraz zręcznościowe dopasowania; każda gra ma własne postępy, misje i osiągnięcia.
+Dopasuj i sortuj łączy 27 gier i 15 odmian w jednej aplikacji, z naszym własnym designem. Dopasuj i pękaj, płytki i mahjong, sortowanie, gry na uwagę i pamięć oraz zręcznościowe dopasowania; każda gra ma własne postępy, misje i osiągnięcia.
 
 • Dopasuj i pękaj: Trzy w rzędzie, Sprint klejnotów, Pękające Klocki, Grupowy Wybuch, Sześciokątne Dopasowanie, Kolorowa Powódź, Potrójne Łączenie
 • Płytki i mahjong: Mahjong Pasjans, Trio Kafelków, Stos Dopasowań, Połącz Pary, Domino Dwunastka, Duże Pary Kafelków
-• Gry w sortowanie: Sortowanie Kart, Sortowanie Półek, Sortowanie Włóczki, Skrzynki Butelek
+• Gry w sortowanie: Sortowanie Kart, Sortowanie Półek, Sortowanie Włóczki, Skrzynki Butelek, Pikselowy Przepływ, Taca Deserów, Kolorowa Pętla
 • Uwaga i pamięć: Pary Obrazków, Znajdź Różnice, Ukryte Przedmioty, Wspólny Symbol
 • Szybkie dopasowania: Strzelanie Bańkami, Łańcuch Kul, Łączenie Owoców
 • Pakiety odmian: Układy Mahjonga (10), Odmiany Baniek (5)

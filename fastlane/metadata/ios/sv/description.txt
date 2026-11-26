@@ -1,8 +1,8 @@
-Matcha & Sortera samlar 24 spel och 15 varianter i en app, med vår egen design. Matcha och spräck, brickor och mahjong, sortering, uppmärksamhets- och minnesspel samt arkadmatchning; varje spel har egna framsteg, uppdrag och prestationer.
+Matcha & Sortera samlar 27 spel och 15 varianter i en app, med vår egen design. Matcha och spräck, brickor och mahjong, sortering, uppmärksamhets- och minnesspel samt arkadmatchning; varje spel har egna framsteg, uppdrag och prestationer.
 
 • Matcha och spräck: Tre i Rad, Juvelsprint, Blockpoppen, Gruppsmäll, Hexmatch, Färgflod, Trippelsammanslagning
 • Brickor och mahjong: Mahjong Patiens, Brick-trio, Högmatchning, Länka Par, Domino Tolv, Stora Brickpar
-• Sorteringsspel: Kortsortering, Hyllsortering, Garnsortering, Flasklådor
+• Sorteringsspel: Kortsortering, Hyllsortering, Garnsortering, Flasklådor, Pixelflöde, Dessertbricka, Färgslinga
 • Uppmärksamhet och minne: Bildpar, Hitta Skillnaderna, Dolda Föremål, Gemensam Symbol
 • Snabb matchning: Bubbelskjutare, Kulkedja, Fruktsammanslagning
 • Variantpaket: Mahjong-former (10), Bubbelvarianter (5)

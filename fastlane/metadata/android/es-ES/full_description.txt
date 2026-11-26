@@ -1,8 +1,8 @@
-Combina y Ordena reúne 24 juegos y 15 variantes en una app, con nuestro propio diseño. Combina y explota, fichas y mahjong, ordenar, juegos de atención y memoria y combinaciones arcade; cada juego guarda su propio progreso, misiones y logros.
+Combina y Ordena reúne 27 juegos y 15 variantes en una app, con nuestro propio diseño. Combina y explota, fichas y mahjong, ordenar, juegos de atención y memoria y combinaciones arcade; cada juego guarda su propio progreso, misiones y logros.
 
 • Combina y explota: Tres en Línea, Carrera de Gemas, Estalla Bloques, Estallido de Grupos, Hexágonos a Juego, Inundación de Color, Fusión Triple
 • Fichas y mahjong: Mahjong Solitario, Trío de Fichas, Montón a Juego, Une Parejas, Dominó Doce, Parejas de Fichas Grandes
-• Juegos de ordenar: Ordena Cartas, Ordena Estantes, Ordena Lanas, Cajas de Botellas
+• Juegos de ordenar: Ordena Cartas, Ordena Estantes, Ordena Lanas, Cajas de Botellas, Flujo de Píxeles, Bandeja de Postres, Bucle de Color
 • Atención y memoria: Parejas de Imágenes, Encuentra las Diferencias, Objetos Ocultos, Símbolo Común
 • Emparejar rápido: Revienta Burbujas, Cadena de Bolas, Fusión de Frutas
 • Paquetes de variantes: Formas de Mahjong (10), Variantes de Burbujas (5)

@@ -1,8 +1,8 @@
-Párosíts és Rendezz 24 játékot és 15 változatot hoz össze egy alkalmazásban, saját egyedi dizájnnal. Párosíts és pukkassz, kövek és mahjong, válogatás, figyelem- és memóriajátékok, valamint arcade párosítás; minden játék saját előrehaladást, küldetéseket és eredményeket kap.
+Párosíts és Rendezz 27 játékot és 15 változatot hoz össze egy alkalmazásban, saját egyedi dizájnnal. Párosíts és pukkassz, kövek és mahjong, válogatás, figyelem- és memóriajátékok, valamint arcade párosítás; minden játék saját előrehaladást, küldetéseket és eredményeket kap.
 
 • Párosíts és pukkassz: Hármas Párosító, Ékkőfutam, Blokkpukkasztó, Csoportrobbantó, Hatszögpárosító, Színáradat, Hármas Egyesítő
 • Kövek és mahjong: Mahjong Pasziánsz, Lapkatrió, Halompárosító, Összekötő Párok, Dominó Tizenkettő, Nagy Lappárok
-• Válogatós játékok: Kártyarendező, Polcrendező, Fonalrendező, Palackos Ládák
+• Válogatós játékok: Kártyarendező, Polcrendező, Fonalrendező, Palackos Ládák, Pixelfolyam, Desszerttálca, Színhurok
 • Figyelem és memória: Képpárok, Keresd a Különbséget, Rejtett Tárgyak, Közös Jel
 • Gyors párosítás: Buborékdurrantó, Golyólánc, Gyümölcsegyesítő
 • Változatcsomagok: Mahjong-formák (10), Buborék-változatok (5)

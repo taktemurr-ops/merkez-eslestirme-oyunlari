@@ -1,6 +1,6 @@
 # Eşleştir ve Sırala · Match & Sort (merkez-eslestirme-oyunlari)
 
-Eşleştirme ailesinin **merkez uygulaması**: 24 oyunu ve 15 çeşidi tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [eslestirme-motoru](https://github.com/taktemurr-ops/eslestirme-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core).
+Eşleştirme ailesinin **merkez uygulaması**: 27 oyunu ve 15 çeşidi tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [eslestirme-motoru](https://github.com/taktemurr-ops/eslestirme-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core).
 
 | Oyun | Depo |
 |---|---|
@@ -30,5 +30,8 @@ Eşleştirme ailesinin **merkez uygulaması**: 24 oyunu ve 15 çeşidi tek mağa
 | Meyve Birleştirme | [oyun-meyve-birlestirme](https://github.com/taktemurr-ops/oyun-meyve-birlestirme) |
 | Çeşit paketi (10) | [oyun-mahjong-dizilim-cesitleri](https://github.com/taktemurr-ops/oyun-mahjong-dizilim-cesitleri) |
 | Çeşit paketi (5) | [oyun-balon-patlatici-cesitleri](https://github.com/taktemurr-ops/oyun-balon-patlatici-cesitleri) |
+| Piksel Akışı | [oyun-piksel-akisi](https://github.com/taktemurr-ops/oyun-piksel-akisi) |
+| Tatlı Tepsisi | [oyun-tatli-tepsisi](https://github.com/taktemurr-ops/oyun-tatli-tepsisi) |
+| Renk Döngüsü | [oyun-renk-dongusu](https://github.com/taktemurr-ops/oyun-renk-dongusu) |
 
 Test APK: https://github.com/taktemurr-ops/merkez-eslestirme-oyunlari/releases/download/test/merkez-eslestirme-oyunlari.apk

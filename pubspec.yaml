@@ -119,6 +119,18 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-balon-patlatici-cesitleri
       ref: 56a5d4113b01dc7c449ce9f19a314749c5658603
+  oyun_piksel_akisi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-piksel-akisi
+      ref: e5e7c696fd040cfc6a130bc7729b9094713c00fd
+  oyun_tatli_tepsisi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-tatli-tepsisi
+      ref: b22fd021fa7190681e5a3abe72eadf2025c8b912
+  oyun_renk_dongusu:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-renk-dongusu
+      ref: 03a9e0422c6af356c02a7b0147b7dbe3a7abb3a5
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -136,7 +148,7 @@ dependency_overrides:
   eslestirme_motoru:
     git:
       url: https://github.com/taktemurr-ops/eslestirme-motoru
-      ref: 10c33918e86890297f297cc6207467b4601bc424
+      ref: 48e803c3b1bca9279b854d0930fb6b5a68badb11
 
 dev_dependencies:
   flutter_test:

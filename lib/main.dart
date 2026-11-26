@@ -18,9 +18,12 @@ import 'package:oyun_mahjong_solitaire/oyun_mahjong_solitaire.dart';
 import 'package:oyun_meyve_birlestirme/oyun_meyve_birlestirme.dart';
 import 'package:oyun_mucevher_degistirme/oyun_mucevher_degistirme.dart';
 import 'package:oyun_ortak_sembol_bulma/oyun_ortak_sembol_bulma.dart';
+import 'package:oyun_piksel_akisi/oyun_piksel_akisi.dart';
 import 'package:oyun_renk_doldurma/oyun_renk_doldurma.dart';
+import 'package:oyun_renk_dongusu/oyun_renk_dongusu.dart';
 import 'package:oyun_tas_cikarma/oyun_tas_cikarma.dart';
 import 'package:oyun_tas_eslestirme/oyun_tas_eslestirme.dart';
+import 'package:oyun_tatli_tepsisi/oyun_tatli_tepsisi.dart';
 import 'package:oyun_top_zinciri/oyun_top_zinciri.dart';
 import 'package:oyun_uclu_birlestirme/oyun_uclu_birlestirme.dart';
 import 'package:oyun_uclu_eslestirme/oyun_uclu_eslestirme.dart';
@@ -131,6 +134,9 @@ final hubConfig = HubConfig(
     balonConfig,
     zincirConfig,
     meyveConfig,
+    pikselAkisiConfig,
+    tatliTepsiConfig,
+    renkDonguConfig,
   ],
   starters: ['oyun-uclu-eslestirme', 'oyun-mahjong-solitaire', 'oyun-urun-siralama'],
   groups: [mahjongDzGroup, balonCesitGroup],
@@ -161,6 +167,9 @@ final hubConfig = HubConfig(
     'oyun-uclu-birlestirme': GameCover('mergetreec'),
     'oyun-uclu-eslestirme': GameCover('gems'),
     'oyun-urun-siralama': GameCover('shelf'),
+    'oyun-piksel-akisi': GameCover('pixelflowc'),
+    'oyun-tatli-tepsisi': GameCover('desserttrayc'),
+    'oyun-renk-dongusu': GameCover('colorloopc'),
   },
   defaultCover: const GameCover('gems'),
   sections: [
@@ -274,7 +283,7 @@ final hubConfig = HubConfig(
           'Trò chơi sắp xếp',
           'Mga larong pag-aayos',
         ],
-        ids: ['oyun-kart-siralama', 'oyun-urun-siralama', 'oyun-iplik-yun-siralama', 'oyun-icecek-siralama']),
+        ids: ['oyun-kart-siralama', 'oyun-urun-siralama', 'oyun-iplik-yun-siralama', 'oyun-icecek-siralama', 'oyun-piksel-akisi', 'oyun-tatli-tepsisi', 'oyun-renk-dongusu']),
     HubSection(
         title: [
           'Dikkat ve hafıza',

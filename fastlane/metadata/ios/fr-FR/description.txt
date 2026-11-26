@@ -1,8 +1,8 @@
-Assortir & Trier réunit 24 jeux et 15 variantes dans une app, avec notre propre design. Assortir et éclater, tuiles et mahjong, tri, jeux d’attention et de mémoire, et assortiments arcade ; chaque jeu garde sa progression, ses missions et ses succès.
+Assortir & Trier réunit 27 jeux et 15 variantes dans une app, avec notre propre design. Assortir et éclater, tuiles et mahjong, tri, jeux d’attention et de mémoire, et assortiments arcade ; chaque jeu garde sa progression, ses missions et ses succès.
 
 • Assortir et éclater: Trois en Ligne, Course aux Gemmes, Bloc Éclat, Explosion de Groupes, Hexagones Assortis, Marée de Couleurs, Fusion Triple
 • Tuiles et mahjong: Mahjong Solitaire, Trio de Tuiles, Pile Assortie, Paires Reliées, Domino Douze, Grandes Tuiles en Paires
-• Jeux de tri: Tri de Cartes, Tri des Étagères, Tri des Laines, Caisses de Bouteilles
+• Jeux de tri: Tri de Cartes, Tri des Étagères, Tri des Laines, Caisses de Bouteilles, Flux de Pixels, Plateau de Desserts, Boucle de Couleurs
 • Attention et mémoire: Paires en Images, Trouve les Différences, Objets Cachés, Symbole Commun
 • Associations rapides: Éclate-Bulles, Chaîne de Billes, Fusion de Fruits
 • Packs de variantes: Dispositions Mahjong (10), Variantes de Bulles (5)
